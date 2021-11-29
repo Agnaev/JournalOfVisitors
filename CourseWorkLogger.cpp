@@ -1,7 +1,5 @@
 ﻿#include <iostream>
 #include <string>
-#include <array>
-#include <map>
 #include "Journal.h"
 #include "InputOutput.h"
 #include "DateTime.h"
